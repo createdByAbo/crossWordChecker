@@ -1,2 +1,7 @@
-# crossWordChecker
-This program analize crossword and find words in it
+### readme.md will be compleated soon
+
+- -jupyter notebook file is bad working sketch witch will refactored in python.
+- -this program was analizing excel file with crossword and find words in it.
+- -program will be relased at MIT licence.
+
+- -more soon -abo
